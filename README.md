@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashumon
+- 👋 Hi, I’m @ashumon or Ashley
 - 👀 I’m interested in learning to code in Python, C++, SQL, HTML/CSS
 - 🌱 I’m currently learning C++, HTML, and CSS
 - 💞️ I’m looking to collaborate on projects that challenge and teach me.
